@@ -1,47 +1,53 @@
-## Title of the Project
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## Cloud-Enhanced Automatic Public Street Light System for Sustainable Urban Illumination
+To enhance conventional maintenance techniques, the project intends to create a smart street light system with automatic and real-time monitoring in order to identify problems.
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Street lighting plays a critical role in public infrastructure in contemporary urban areas, assuring safety, improving road user visibility, and improving general quality of life. Despite their significance, traditional street lighting systems have a number of operational issues because of ineffective maintenance procedures and a deficiency of real-time monitoring tools. Frequently, these systems depend on manual examinations or open-access reports to detect problems like burned-out lightbulbs, malfunctioning wiring, or power disruptions.
+
+The lack of integration between street lighting and smart city initiatives further limits the potential for optimizing urban infrastructure.A more intelligent system would allow for centralized control, enabling city administrators to monitor and manage streetlights remotely, diagnose problems, and deploy maintenance teams more effectively.
 
 ## Features
 <!--List the features of the project as shown below-->
-- Implements advance neural network method.
-- A framework based application for deployment purpose.
-- High scalability.
-- Less time complexity.
-- A specific scope of Chatbot response model, using json data format.
+- Advanced Deep learning algorithms.
+- High adaptability to dynamic environments and terrains.
+- Real-time data processing with integrated sensors like LDR.
+- Utilizes Blynk applcation for Alloting.
+- Scalable design with modular architecture for future enhancements.
+- Multimodal integration of data inputs for better environmental awareness.
 
 ## Requirements
 <!--List the requirements of the project as shown below-->
-* Operating System: Requires a 64-bit OS (Windows 10 or Ubuntu) for compatibility with deep learning frameworks.
-* Development Environment: Python 3.6 or later is necessary for coding the sign language detection system.
-* Deep Learning Frameworks: TensorFlow for model training, MediaPipe for hand gesture recognition.
-* Image Processing Libraries: OpenCV is essential for efficient image processing and real-time hand gesture recognition.
-* Version Control: Implementation of Git for collaborative development and effective code management.
-* IDE: Use of VSCode as the Integrated Development Environment for coding, debugging, and version control integration.
-* Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1), TensorFlow GPU, OpenCV, and Mediapipe for deep learning tasks.
+* Operating System: Requires a 64-bit OS (Windows 10, Ubuntu 20.04) for compatibility with simulation and real-time processing frameworks.
+* Development Environment: Python 3.8 or later, suitable for deep learning.
+* Deep Learning Frameworks: TensorFlow for policy optimization and OpenAI Gym for simulation.
+* Simulation Tools: PyBullet, Gazebo, and MATLAB Simulink for real-world modeling.
+* Microcontroller: Arduino Nano for controlling sensors and actuators.
+* Hardware Components:
+  * Sensors: LDR for Light tracking.
+  * Applications: Blynk app for fault detection.
+  * Bulbs: 100 watts bulbs.
+* IDE: Arduino IDE and Visual Studio Code for debugging and deployment.
+* Version Control: Git for collaborative development.
+* Additional Dependencies: Includes libraries such as scikit-learn, OpenCV, and stable-baselines3 for deep learning.
 
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+![Screenshot 2024-12-19 000726](https://github.com/user-attachments/assets/a4991f16-1356-4368-bd0d-e70fc21e78f9)
+
+
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
-#### Output1 - Name of the output
+#### Output1 - real time output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![mini pro](https://github.com/user-attachments/assets/015bacd5-0e3b-4079-ab1f-c6c4e4afee5b)
 
-#### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+Detection Accuracy: 96.2%
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
 
 
 ## Results and Impact
